@@ -12,3 +12,5 @@ deploy:
   site: 13a75a0f-8690-49c2-8116-a2c3b6a72171
   auth: nfp_oEUNSvmoBkvRiBesRwR1w5gasNau6rba687f
   edge: true # opt in to dpl v2
+  on:
+    branch: main
